@@ -1,0 +1,16 @@
+~/.config/nvim/
+├── init.lua                # Entry point for Neovim, loads all configurations
+├── lua/
+│   ├── core/               # Core configurations
+│   │   ├── init.lua        # Loads the core submodules
+│   │   ├── options.lua     # Neovim options (e.g., number, relativenumber)
+│   │   ├── keymaps.lua     # Custom key mappings
+│   │   ├── autocmds.lua    # Autocommands for event-based actions
+│   └── plugins/            # Plugin configurations and specifications
+│       ├── init.lua        # Loads all plugin specifications
+│       ├── lazy.lua        # Lazy.nvim bootstrap and setup
+│       ├── specs/          # Individual plugin specifications
+│       │   ├── lsp.lua     # LSP configurations (e.g., nvim-lspconfig)
+│       │   ├── ui.lua      # UI plugins (e.g., treesitter, colorschemes)
+│       │   └── ...         # Additional plugin categories or custom setups
+└── README.md               # Optional documentation for your setup

@@ -1,0 +1,5 @@
+[user]
+	name = Pedro Oliveira
+	email = pedro.freire.oliveira@tecnico.ulisboa.pt
+[core]
+	editor = nvim
