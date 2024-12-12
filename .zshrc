@@ -23,6 +23,7 @@ eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/themes/catppuccin_macc
 # Case-sensitive completion must be off. _ and - will be interchangeable.
 # HYPHEN_INSENSITIVE="true"
 
+export EDITOR='nvim'
 # Uncomment one of the following lines to change the auto-update behavior
 # zstyle ':omz:update' mode disabled  # disable automatic updates
 # zstyle ':omz:update' mode auto      # update automatically without asking
@@ -58,8 +59,9 @@ eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/themes/catppuccin_macc
 # SHORTCUTS
 alias v='nvim'
 alias nm='nmtui'
-
-
+alias z='zoxide'
+alias pp='ping -c 1 pedrodoliveira.com'
+alias java8run='/usr/lib/jvm/java-8-openjdk/bin/java -jar'
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
 # You can set one of the optional three formats:
@@ -76,6 +78,7 @@ alias nm='nmtui'
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
+eval "$(zoxide init zsh)"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh

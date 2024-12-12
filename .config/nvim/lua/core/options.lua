@@ -24,7 +24,7 @@ local options = {
 
     -- mouse options
     mouse = "a",
-    
+
     -- disables -- MODE --
     showmode = false,
 
