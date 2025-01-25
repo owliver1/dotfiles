@@ -1,0 +1,50 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/owl/Projects/Minecraft-Beta-1.7.4/"
+  (dired-filename . "/home/owl/Projects/Minecraft-Beta-1.7.4/minecraft"))
+ ("/home/owl/Projects/Minecraft-Beta-1.7.4/minecraft/"
+  (dired-filename . "/home/owl/Projects/Minecraft-Beta-1.7.4/minecraft/bin"))
+ ("/home/owl/Projects/Minecraft-Beta-1.7.4/minecraft/Makefile" . 37)
+ ("/home/owl/Projects/Minecraft-Beta-1.7.4/minecraft/src/net/minecraft/client/Minecraft.java" . 3968)
+ ("/home/owl/.config/emacs/configuration.org" . 515)
+ ("/home/owl/.config/emacs/packages.el" . 2547)
+ ("/home/owl/Documents/Org/gestao-resumo.org" . 2743)
+ ("/home/owl/Projects/leetC.c" . 74)
+ ("/home/owl/.config/emacs/functions.el" . 1036)
+ ("/home/owl/.config/emacs/keybinds.el" . 775)
+ ("/home/owl/"
+  (dired-filename . "/home/owl/.zshrc"))
+ ("/home/owl/Documents/"
+  (dired-filename . "/home/owl/Documents/Org"))
+ ("/home/owl/Documents/Org/" . 115)
+ ("/home/owl/Documents/Org/linear-algebra-map3-study-roadmap" . 293)
+ ("/home/owl/Projects/"
+  (dired-filename . "/home/owl/Projects/MC-Datapack-Dev"))
+ ("/home/owl/Projects/MC-Datapack-Dev/"
+  (dired-filename . "/home/owl/Projects/MC-Datapack-Dev/NeoItems"))
+ ("/home/owl/Projects/MC-Datapack-Dev/NeoItems/" . 135)
+ ("/home/owl/.config/sway/config" . 450)
+ ("/home/owl/.config/sway/"
+  (dired-filename . "/home/owl/.config/sway/config"))
+ ("/home/owl/.config/emacs/workflows/Prolog/sld_tree.py" . 1066)
+ ("/home/owl/.config/emacs/workflows/Prolog/"
+  (dired-filename . "/home/owl/.config/emacs/workflows/Prolog/sld_tree.py~"))
+ ("/home/owl/.config/emacs/workflows/Prolog/sld_tree.py~" . 1117)
+ ("/home/owl/Projects/LP_Projeto1/ist1114085/projecto.pl" . 744)
+ ("/home/owl/Projects/LP_Projeto1/"
+  (dired-filename . "/home/owl/Projects/LP_Projeto1/ist1114085"))
+ ("/home/owl/Projects/LP_Projeto1/ist1114085/"
+  (dired-filename . "/home/owl/Projects/LP_Projeto1/ist1114085/projecto.pl"))
+ ("/home/owl/.config/emacs/init.el" . 39)
+ ("/home/owl/.config/emacs/.cache/treemacs-persist" . 60)
+ ("/home/owl/.config/emacs/settings.el" . 81)
+ ("/home/owl/Projects/Advent-Of-Code/2024/"
+  (dired-filename . "/home/owl/Projects/Advent-Of-Code/2024/01.c"))
+ ("/home/owl/Projects/Advent-Of-Code/2024/01.c" . 33)
+ ("/home/owl/Projects/Advent-Of-Code/"
+  (dired-filename . "/home/owl/Projects/Advent-Of-Code/2024"))
+ ("/home/owl/.dotfiles/.zshrc" . 3599)
+ ("/usr/share/applications/emacs.desktop" . 286)
+ ("/usr/share/applications/"
+  (dired-filename . "/usr/share/applications/avahi-discover.desktop"))
+ ("/home/owl/.config/nvim/lua/core/functions.lua" . 331)
+ ("/home/owl/Projects/Minecraft_Testing!/chatmsg.py" . 81))

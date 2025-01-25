@@ -1,0 +1,7 @@
+   Call: (10) grandparent(john, susan) ? creep
+   Call: (11) parent(john, _13156) ? creep
+   Exit: (11) parent(john, mary) ? creep
+   Call: (11) parent(mary, susan) ? creep
+   Exit: (11) parent(mary, susan) ? creep
+   Exit: (10) grandparent(john, susan) ? creep
+   Call: (10) halt ? creep

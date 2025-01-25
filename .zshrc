@@ -1,9 +1,9 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
-
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export QT_QPA_PLATFORMTHEME=wayland
+export XDG_CONFIG_HOME="$HOME/.config"
+export SDL_AUDIODRIVER=pulseaudio
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -23,7 +23,7 @@ eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/themes/catppuccin_macc
 # Case-sensitive completion must be off. _ and - will be interchangeable.
 # HYPHEN_INSENSITIVE="true"
 
-export EDITOR='nvim'
+export EDITOR='emacs -nw'
 # Uncomment one of the following lines to change the auto-update behavior
 # zstyle ':omz:update' mode disabled  # disable automatic updates
 # zstyle ':omz:update' mode auto      # update automatically without asking
@@ -54,14 +54,13 @@ export EDITOR='nvim'
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
-
-
 # SHORTCUTS
 alias v='nvim'
 alias nm='nmtui'
 alias z='zoxide'
 alias pp='ping -c 1 pedrodoliveira.com'
 alias java8run='/usr/lib/jvm/java-8-openjdk/bin/java -jar'
+alias e='emacsclient -t'
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
 # You can set one of the optional three formats:

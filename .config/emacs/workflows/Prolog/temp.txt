@@ -1,0 +1,10 @@
+ERROR: /home/owl/.config/emacs/workflows/Prolog/sld_tree.py:1:7: Syntax error: Operator expected
+ERROR: /home/owl/.config/emacs/workflows/Prolog/sld_tree.py:52:24: Syntax error: Unexpected end of file
+   Exception: (10) visualizaLinha([1, 2, 3]) ? creep
+   Call: (11) push_msg(init_goal_failed(error(existence_error(procedure, visualizaLinha/1), context(system:'<meta-call>'/1, _54)), 'trace, visualizaLinha([1,2,3]), halt.'), _80) ? creep
+   Exit: (11) push_msg(init_goal_failed(error(existence_error(procedure, visualizaLinha/1), context(system:'<meta-call>'/1, _54)), 'trace, visualizaLinha([1,2,3]), halt.'), []) ? creep
+   Call: (18) prolog:message_prefix_hook(thread, _1534) ? creep
+   Fail: (18) prolog:message_prefix_hook(thread, _1534) ? creep
+ERROR: -g trace, visualizaLinha([1,2,3]), halt.: '<meta-call>'/1: Unknown procedure: visualizaLinha/1
+   Call: (10) pop_msg([]) ? creep
+   Exit: (10) pop_msg([]) ? creep

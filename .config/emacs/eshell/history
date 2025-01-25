@@ -1,0 +1,43 @@
+hi
+swipl -s /home/owl/Projects/LP_Projeto1/ist1114085/projecto.pl
+swipl -s /home/owl/Projects/LP_Projeto1/ist1114085/projecto.pl
+pwd
+swipl -s /home/owl/Projects/LP_Projeto1/ist1114085/projecto.pl
+cat test.pl
+python ~/Projects/pyte/pyte.py 
+clear
+clear
+clear 
+clear 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+swipl -s projecto.pl 
+python main.py 
+python main.py 
+python main.py
+python main.py
+clear
+clear
+clear
+clear
+neofetch
+neofetch
+gcc -o /home/owl/Projects/leetC.out /home/owl/Projects/leetC.c
+.//home/owl/Projects/leetC.out
+ls
+./home/owl/Projects/leetC.out
+./leetC.out 
+clear
+gcc -o c.out /home/owl/Projects/leetC.c
+./c.out
+gcc -o c.out /home/owl/Projects/leetC.c
+./c.out

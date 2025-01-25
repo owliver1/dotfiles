@@ -1,0 +1,16 @@
+* Owldev's GNU Emacs Configuration
+
+** [[file:init.el][init.el]]
+The file *Emacs* will load when it starts up! This is where I have placed requirements for the other configuration files!
+
+** [[file:settings.el][settings.el]]
+The file where I have placed all of *Emacs* UI settings, line settings etc...
+
+** [[file:keybinds.el][keybinds.el]]
+The file where I have placed all of my custom keybinds!
+
+** [[file:packages.el][packages.el]]
+The file where I have placed all the package installation/configuration stuff!
+
+** functions.el
+ The file where I have placed all of my custom functions written in *Emacs* Lisp!

@@ -1,0 +1,6 @@
+Warning: /home/owl/Projects/LP_Projeto1/ist1114085/projecto.pl:58:
+Warning:    Singleton variables: [Tabuleiro]
+ERROR: -g trace, Tab = [[_, e, _], [_, p, p], [_, _, p]], coordObjectos(e, Tab, [(1, 3), (3, 3)], LCO, Num)., halt.: Syntax error: Operand expected, unquoted comma or bar found
+ERROR: trace, Tab = [[_, e, _], [_, p, p], [_, _, p]], coordObjectos(e, Tab, [(1, 3), (3, 3)], LCO, Num)
+ERROR: ** here **
+ERROR: ., halt. 

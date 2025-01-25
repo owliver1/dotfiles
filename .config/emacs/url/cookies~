@@ -1,0 +1,22 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ 'nil)
+(setq url-cookie-secure-storage
+ '((".youtube.com"
+  [url-cookie "__Secure-YEC" "Cgt5R0Fwc2UtOFBHVSjQofy6BjIiCgJQVBIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgRQ%3D%3D" "Wed, 14-Jan-2026 17:24:31 GMT" "/" ".youtube.com" t]
+  [url-cookie "VISITOR_PRIVACY_METADATA" "CgJQVBIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgRQ%3D%3D" "Wed, 14-Jan-2026 17:24:32 GMT" "/" ".youtube.com" t])
+ (".google.com"
+  [url-cookie "SOCS" "CAESOAgCEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjQxMjEwLjAwX3AwGgVwdC1QVCAEGgYIgLj4ugY" "Wed, 14-Jan-2026 17:24:27 GMT" "/" ".google.com" t]
+  [url-cookie "AEC" "AZ6Zc-U-Yz6-pmrl0cWLtJvijJ1OOAi96JLY6Ih2IWPV_Zk9ulx1nhk3rw" "Fri, 13-Jun-2025 17:24:11 GMT" "/" ".google.com" t]
+  [url-cookie "__Secure-ENID" "24.SE=daBmnLRY4x96jIRfHqUW5u19_CiMt6i73koB9UYfEhvrb29dEo_vKjSIyLc5T0tguLApFYQfhP4b4tskH1U5sMlpb2FicQsfICheRnXrM1RjfLhRVb8Oo4ZvP2Nx7rFW8jVzma6KrA0av-Nnzk1oQoodyKv35jjq43E4iWoO9OdsFQ7Ud0AIAM7TCoLFZ6Jaj_eEZHlQQDEI4evmmkqooMCGi7fnYu88rqkCwBSJWl2_ZULo3FA" "Thu, 15-Jan-2026 09:42:29 GMT" "/" ".google.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; coding: utf-8-emacs-unix
+;; End:
+
+;;; cookies ends here
